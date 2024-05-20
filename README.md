@@ -7,4 +7,4 @@ As the 2024 season kicks off its first couple months, players are still in the r
 
 RE End State and RE Beginning state are the average runs scored based on the situation after the at-bat and before. 
 
-The fangraphs matrix will be provided in this repository for reference via FanGraphs, and the data used in the notebook is provided by Baseball Reference. 
+The FanGraphs matrix will be provided in the notebook, and the player data is provided by Baseball Reference. 
